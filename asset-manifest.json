@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ReactDemo/static/css/main.5729474c.chunk.css",
+    "main.js": "/ReactDemo/static/js/main.8b96b86a.chunk.js",
+    "main.js.map": "/ReactDemo/static/js/main.8b96b86a.chunk.js.map",
+    "runtime-main.js": "/ReactDemo/static/js/runtime-main.96ed541b.js",
+    "runtime-main.js.map": "/ReactDemo/static/js/runtime-main.96ed541b.js.map",
+    "static/css/2.65af8127.chunk.css": "/ReactDemo/static/css/2.65af8127.chunk.css",
+    "static/js/2.434a1fb8.chunk.js": "/ReactDemo/static/js/2.434a1fb8.chunk.js",
+    "static/js/2.434a1fb8.chunk.js.map": "/ReactDemo/static/js/2.434a1fb8.chunk.js.map",
+    "index.html": "/ReactDemo/index.html",
+    "static/css/2.65af8127.chunk.css.map": "/ReactDemo/static/css/2.65af8127.chunk.css.map",
+    "static/css/main.5729474c.chunk.css.map": "/ReactDemo/static/css/main.5729474c.chunk.css.map",
+    "static/js/2.434a1fb8.chunk.js.LICENSE.txt": "/ReactDemo/static/js/2.434a1fb8.chunk.js.LICENSE.txt",
+    "static/media/1.430fb44b.svg": "/ReactDemo/static/media/1.430fb44b.svg",
+    "static/media/2.5342ef52.svg": "/ReactDemo/static/media/2.5342ef52.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96ed541b.js",
+    "static/css/2.65af8127.chunk.css",
+    "static/js/2.434a1fb8.chunk.js",
+    "static/css/main.5729474c.chunk.css",
+    "static/js/main.8b96b86a.chunk.js"
+  ]
+}
